@@ -1,0 +1,1111 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "floors": [{
+            "pid": "1577813127327192681",
+            "key": "gallery",
+            "point": 0,
+            "assemblyremark": "轮播",
+            "value": [{
+                "id": "1577813127382313844",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D628b0c9bf3824300061c07a1",
+                "name": "端午-第1帧",
+                "ipoint": 0,
+                "imgurl": "http://image.yonghuivip.com/image/16532804279419e421c05678566515095dbf1c093eda5d9d4768d.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#82c9a9",
+                "bgendcolor": "#45a177",
+                "searchButtonStartColor": "#7bc6a4",
+                "searchButtonEndColor": "#429a72"
+            }, {
+                "id": "1577813126171354659",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/native?id=5fead413750db6001b771df6&name=sp",
+                "name": "咏悦汇",
+                "ipoint": 1,
+                "imgurl": "http://image.yonghuivip.com/image/1652942972543d747c040338b1e74f32adac000a4d2878f9eaa4f.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#e43f42",
+                "bgendcolor": "#a5181a",
+                "searchButtonStartColor": "#e23639",
+                "searchButtonEndColor": "#9c1619"
+            }, {
+                "id": "1577813127706807073",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62836fc4b59e750006264aef",
+                "name": "母婴奶粉",
+                "ipoint": 2,
+                "imgurl": "http://image.yonghuivip.com/image/1653268591821150839178268d21bc93254d48e00d503d70e65ea.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#e26981",
+                "bgendcolor": "#c12544",
+                "searchButtonStartColor": "#e1607a",
+                "searchButtonEndColor": "#b82341"
+            }, {
+                "id": "1577813127285097605",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62612e9cb9d3e10006adc0b8",
+                "name": "康师傅",
+                "ipoint": 3,
+                "imgurl": "http://image.yonghuivip.com/image/16532694173965931a44a1d4c7a6ee3bd1120fb9f2560428afb12.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#8dc757",
+                "bgendcolor": "#5a8a2e",
+                "searchButtonStartColor": "#88c44f",
+                "searchButtonEndColor": "#55822b"
+            }, {
+                "id": "1577813126424857007",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62873ad0dedecc0006d77f90",
+                "name": "牛肉",
+                "ipoint": 4,
+                "imgurl": "http://image.yonghuivip.com/image/165302970592057e397a4b2391ccef02d1f946cf6dfa6808ae012.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#8b6c5b",
+                "bgendcolor": "#4d3c32",
+                "searchButtonStartColor": "#856757",
+                "searchButtonEndColor": "#47372e"
+            }, {
+                "id": "1577813128422549338",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D6281c16bdedecc0006d0e838",
+                "name": "圣农",
+                "ipoint": 5,
+                "imgurl": "http://image.yonghuivip.com/image/1653267715102c7b1b9c23d34798e38917c2897ac56aa9fc9c0f6.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#e3943b",
+                "bgendcolor": "#a16017",
+                "searchButtonStartColor": "#e29032",
+                "searchButtonEndColor": "#985b16"
+            }, {
+                "id": "1577813128141536464",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62551658d6fc0a0006a67c48",
+                "name": "福临门",
+                "ipoint": 6,
+                "imgurl": "http://image.yonghuivip.com/image/1653269823159a74259fd47ca6f802fe2edb2dfad863534c7cd73.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#e9ce63",
+                "bgendcolor": "#c9a61d",
+                "searchButtonStartColor": "#e7cb5a",
+                "searchButtonEndColor": "#c09f1b"
+            }, {
+                "id": "1577813128278994869",
+                "height": 300,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D6285a229225fa90006c5a17b",
+                "name": "伊利",
+                "ipoint": 7,
+                "imgurl": "http://image.yonghuivip.com/image/165337968967547955cec973f7b1649b0932c61fab63f760eccf2.jpg?w=1053&h=300&imageView2/0/w/1284/q/80!/server",
+                "bgstartcolor": "#63a8e9",
+                "bgendcolor": "#1d76c9",
+                "searchButtonStartColor": "#5aa3e7",
+                "searchButtonEndColor": "#1b70c0"
+            }],
+            "style": {
+                "height": 300,
+                "width": 1053
+            },
+            "modulename": "gallery",
+            "newhomepage": true
+        }, {
+            "pid": "1577813127327192683",
+            "key": "sbanner",
+            "point": 1,
+            "assemblyremark": "大促资源位-省区",
+            "value": {
+                "id": "1577813128058357038",
+                "height": 164,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/native?categoryid=31007381&mercatid=31007375&merid=7&name=mercategory&isClsScene=1&categorychannel=10",
+                "name": "下雨提醒",
+                "ipoint": 0,
+                "imgurl": "http://image.yonghuivip.com/image/1651023929318cd66e84cda627a887294cc9ad3f88ff867ba3e25.gif?w=1053&h=164"
+            },
+            "style": {
+                "moretag": false,
+                "showmoretag": false,
+                "spliceassembly": false,
+                "cornerstyle": 2
+            },
+            "modulename": "sbanner",
+            "newhomepage": true
+        }, {
+            "pid": "1577813127327192685",
+            "key": "jewel",
+            "point": 2,
+            "jewelstyle": 5,
+            "assemblyremark": "百宝箱",
+            "value": [{
+                "id": "1577813127161247453",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007262&name=mercategory",
+                "name": "水 果",
+                "ipoint": 0,
+                "imgurl": "http://image.yonghuivip.com/image/1651072225745dd07fff5afdacfee841e2919901aba5ea69dcc6e.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813128492436573",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007249&merid=7&name=mercategory",
+                "name": "蔬  菜",
+                "ipoint": 1,
+                "imgurl": "http://image.yonghuivip.com/image/16475980406526f054ee0cb04a9e13556bed4358ad2e937124cef.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813125669040841",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007274&merid=7&name=mercategory",
+                "name": "肉禽蛋",
+                "ipoint": 2,
+                "imgurl": "http://image.yonghuivip.com/image/16475985158362c63683a4d1cacab684a27ba1b4cacd5f4e370f1.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813127250538235",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007285&merid=7&name=mercategory",
+                "name": "海鲜水产",
+                "ipoint": 3,
+                "imgurl": "http://image.yonghuivip.com/image/1647598637133b6234b188018d18246fe4b3f1120c7fc5c2235d7.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813128169088962",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007295&merid=7&name=mercategory",
+                "name": "熟食包点",
+                "ipoint": 4,
+                "imgurl": "http://image.yonghuivip.com/image/1651712243956f739c3cd463ea8ecb63248784912fbfad4f8717a.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813127672678594",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007305&merid=7&name=mercategory",
+                "name": "粮油调味",
+                "ipoint": 5,
+                "imgurl": "http://image.yonghuivip.com/image/164759880514409634c943b4463c47e34ae5e6a3a34bfe32aaaad.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813126454822346",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007321&merid=7&name=mercategory",
+                "name": "速食冻品",
+                "ipoint": 6,
+                "imgurl": "http://image.yonghuivip.com/image/1647598959447df4b680a4e5faf56a5b4c9345c82c8b59c1d4e33.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813128152733369",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007334&merid=7&name=mercategory",
+                "name": "休闲零食",
+                "ipoint": 7,
+                "imgurl": "http://image.yonghuivip.com/image/16475990803600bec291e2bdb03526cb34a8f1224b894e71b0735.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813128352422212",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007346&merid=7&name=mercategory",
+                "name": "乳品烘焙",
+                "ipoint": 8,
+                "imgurl": "http://image.yonghuivip.com/image/16475991314615023f7f034681ae1c3c08d6da1fc3988895c094c.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }, {
+                "id": "1577813127972262543",
+                "action": "myyh://yhlife.com/show/native?mercatid=31007358&merid=7&name=mercategory",
+                "name": "酒饮冲调",
+                "ipoint": 9,
+                "imgurl": "http://image.yonghuivip.com/image/16475991592088778dc547c6b34c7526435e21875b6d8d0c5ae72.png?w=165&h=165&imageView2/0/w/375/h/154/format/webp/q/100",
+                "thirdrow": false
+            }],
+            "style": {
+                "jewelstyle": 5,
+                "spliceassembly": false,
+                "servicepromptstyle": false
+            },
+            "modulename": "jewel",
+            "newhomepage": true
+        }, {
+            "pid": "1577813127327192686",
+            "key": "jewelslide",
+            "point": 3,
+            "assemblyremark": "百宝箱-侧滑",
+            "value": [{
+                "id": "1577813128382621846",
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62786c3fdf53ca0006328229",
+                "name": "永辉菜谱",
+                "ipoint": 0,
+                "imgurl": "http://image.yonghuivip.com/image/164601615565453aa514777422d7499c527aba3500971aad4c19b.png?w=117&h=117",
+                "subtitle": "吃货必备"
+            }, {
+                "id": "1577813129265098010",
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D6277ea0d7caa7a00068a5e88",
+                "name": "下单返券",
+                "ipoint": 1,
+                "imgurl": "http://image.yonghuivip.com/image/16521468015817df8f25e6f410f608c0e1f0db91ccc702e4ecc86.png?w=117&h=117",
+                "subtitle": "返29.9元"
+            }, {
+                "id": "1577813127077002776",
+                "action": "myyh://yhlife.com/show/web?url=https%3A%2F%2Fyonghuivip.com%2Fthirdminiprogram%3FappId%3Dwx33277cc671fc9a62%26originId%3Dgh_0bc0658248a7%26path%3Dpages%252FactivityArticle%252FactivityArticle%253FactivityPageId%253D1073%2526isFromHead%253D1",
+                "name": "服装馆",
+                "ipoint": 2,
+                "imgurl": "http://image.yonghuivip.com/image/165181118003821943edcdee58226366bee245da23825b81c91a2.png?w=117&h=117",
+                "subtitle": "服装馆"
+            }, {
+                "id": "1577813128434081027",
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D5e8d341528ba88001d7befb7",
+                "name": "直播好货",
+                "ipoint": 3,
+                "imgurl": "http://image.yonghuivip.com/image/1646016563993ce4f02a7435b9ced8d15f02d5c33704fb68d1bee.png?w=117&h=117",
+                "subtitle": "惠聚地"
+            }, {
+                "id": "1577813125956495752",
+                "action": "myyh://yhlife.com/show/native?categoryid=31023053&mercatid=31019423&merid=7&name=mercategory&isClsScene=1&categorychannel=10",
+                "name": "鲜花绿植",
+                "ipoint": 4,
+                "imgurl": "http://image.yonghuivip.com/image/16529296183010f768a125174290c18ac4f212f03940b3fc84490.png?w=117&h=117",
+                "subtitle": "浪漫来袭"
+            }],
+            "style": {
+                "spliceassembly": false
+            },
+            "modulename": "jewelslide"
+        }, {
+            "pid": "1577813127327192688",
+            "key": "sbanner",
+            "point": 4,
+            "assemblyremark": "省区大促",
+            "value": {
+                "id": "1577813127088057405",
+                "height": 280,
+                "width": 1053,
+                "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D61446a6bfdf0750006a74c12",
+                "name": "会员日",
+                "ipoint": 0,
+                "imgurl": "http://image.yonghuivip.com/image/16533003997734df84ada011c5c1cdd789c561b667ef3c1e385f1.gif?w=1053&h=280"
+            },
+            "style": {
+                "moretag": false,
+                "showmoretag": false,
+                "spliceassembly": false,
+                "cornerstyle": 2
+            },
+            "modulename": "sbanner",
+            "newhomepage": true
+        }, {
+            "pid": "1577813127327192689",
+            "key": "marketingscene",
+            "point": 5,
+            "assemblyremark": "场景营销",
+            "value": {
+                "style": 4,
+                "skins": ["http://image.yonghuivip.com/hp/market/scene/4C01.png", "http://image.yonghuivip.com/hp/market/scene/4C02.png", "http://image.yonghuivip.com/hp/market/scene/4C03.png", "http://image.yonghuivip.com/hp/market/scene/4C04.png"],
+                "resourceBanners": [{
+                    "title": "粽情端午",
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D628b0c9bf3824300061c07a1",
+                    "ipoint": 0,
+                    "id": "1577813128926118582",
+                    "subtitle": "买2送1",
+                    "imgurl": "http://image.yonghuivip.com/image/165331561712369c2a66960fb3833808ef06c3ae07e99f1812067.jpg?w=240&h=240"
+                }, {
+                    "title": "康师傅饮品",
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62612e9cb9d3e10006adc0b8",
+                    "ipoint": 1,
+                    "id": "1577813125906408016",
+                    "subtitle": "2件11.8元",
+                    "imgurl": "http://image.yonghuivip.com/image/1653315671901765b0096dd7e40124aeab516a30120187c0fa041.jpg?w=240&h=240"
+                }, {
+                    "title": "厨邦调味",
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D628b52d847a2c60006e5e32c",
+                    "ipoint": 2,
+                    "id": "1577813129213019490",
+                    "subtitle": "49减10",
+                    "imgurl": "http://image.yonghuivip.com/image/165331571059164358e2fb501baa82f9868a1bedcbd9fc5426c3a.jpg?w=240&h=240"
+                }, {
+                    "title": "应季水果",
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D628ae524f3824300061bc2d0",
+                    "ipoint": 3,
+                    "id": "1577813125384184238",
+                    "subtitle": "满29减5",
+                    "imgurl": "http://image.yonghuivip.com/image/1653315759985dbcd281e3cccf30ff8bf672fd40443a42ce12f82.jpg?w=240&h=240"
+                }]
+            },
+            "modulename": "scene_sale",
+            "newhomepage": true
+        }, {
+            "pid": "1577813127327192690",
+            "key": "superdiscount",
+            "point": 6,
+            "assemblyremark": "超划算",
+            "value": {
+                "id": "1577813127327192690",
+                "products": [{
+                    "type": 1,
+                    "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-316824&merid=7",
+                    "skuCode": "R-316824",
+                    "skuType": 2,
+                    "skuSaleType": 0,
+                    "cover": {
+                        "imageUrl": "http://image.yonghuivip.com/product/R-316824/16231153702049b5396fcb0c965c8f4b519781993111f1a7df09d.jpg"
+                    },
+                    "price": {
+                        "price": "17.9",
+                        "marketPrice": "21.8"
+                    },
+                    "batch": {
+                        "batchFlag": 0
+                    },
+                    "cornerImageUrl": "http://image.yonghuivip.com/image/16527156730699cf2fdca7023a8e4df7a88297c99e2797b4ccedd.png",
+                    "tag": {
+                        "titleTag": {
+                            "text": "秒杀",
+                            "type": 33,
+                            "imageUrl": "http://image.yonghuivip.com/sku/card/icon/seckill@3x-2.png"
+                        }
+                    },
+                    "spu": {
+                        "isSpu": 0
+                    },
+                    "title": "圣迪乐村高品质鸡蛋 12枚",
+                    "subTitle": "天然谷物喂养 口感绵糯香",
+                    "recSlogan": "1521人回购过",
+                    "inStock": 1,
+                    "tracking": {
+                        "priceInCent": 1790,
+                        "marketPriceInCent": 2180
+                    },
+                    "preprocess": 0,
+                    "cornerStyle": 1,
+                    "isOnSale": true
+                }, {
+                    "type": 1,
+                    "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-161810&merid=7",
+                    "skuCode": "R-161810",
+                    "skuType": 0,
+                    "skuSaleType": 0,
+                    "cover": {
+                        "imageUrl": "http://image.yonghuivip.com/product/R-161810/16478240492135aed60ab0d568a44ba986fdf328c4d53b2143db3.jpg?w=750&h=750"
+                    },
+                    "price": {
+                        "price": "39.9",
+                        "marketPrice": "51.2"
+                    },
+                    "batch": {
+                        "batchFlag": 0
+                    },
+                    "cornerImageUrl": "http://image.yonghuivip.com/image/16527156730699cf2fdca7023a8e4df7a88297c99e2797b4ccedd.png",
+                    "tag": {
+                        "commonTags": [{
+                            "text": "已减11.3元",
+                            "type": 10
+                        }]
+                    },
+                    "spu": {
+                        "isSpu": 0
+                    },
+                    "title": "伊利纯牛奶 250ml*16",
+                    "subTitle": "伊利的用心只为你放心",
+                    "recSlogan": "9271人回购过",
+                    "inStock": 1,
+                    "tracking": {
+                        "priceInCent": 3990,
+                        "marketPriceInCent": 5120
+                    },
+                    "preprocess": 0,
+                    "cornerStyle": 1,
+                    "isOnSale": true
+                }, {
+                    "type": 1,
+                    "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1314465&merid=7",
+                    "skuCode": "R-1314465",
+                    "skuType": 2,
+                    "skuSaleType": 0,
+                    "cover": {
+                        "imageUrl": "http://image.yonghuivip.com/product/R-1314465/16189580677259b5396fcb0c965c8f4b519781993111f1a7df09d.jpg"
+                    },
+                    "price": {
+                        "price": "3.98",
+                        "marketPrice": "5.98"
+                    },
+                    "batch": {
+                        "batchFlag": 0
+                    },
+                    "cornerImageUrl": "http://image.yonghuivip.com/image/16527156730699cf2fdca7023a8e4df7a88297c99e2797b4ccedd.png",
+                    "tag": {
+                        "titleTag": {
+                            "text": "秒杀",
+                            "type": 33,
+                            "imageUrl": "http://image.yonghuivip.com/sku/card/icon/seckill@3x-2.png"
+                        }
+                    },
+                    "spu": {
+                        "isSpu": 0
+                    },
+                    "title": "甜玉米 300-400g",
+                    "subTitle": "清新爽口 味道香甜",
+                    "recSlogan": "1.9w人回购过",
+                    "inStock": 1,
+                    "tracking": {
+                        "priceInCent": 398,
+                        "marketPriceInCent": 598
+                    },
+                    "preprocess": 0,
+                    "cornerStyle": 1,
+                    "isOnSale": true
+                }, {
+                    "type": 1,
+                    "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-744758&merid=7",
+                    "skuCode": "R-744758",
+                    "skuType": 0,
+                    "skuSaleType": 0,
+                    "cover": {
+                        "imageUrl": "http://image.yonghuivip.com/yh-image-library/17138861-c34a-47be-997e-8baa47ad3869.jpg"
+                    },
+                    "price": {
+                        "price": "13.9",
+                        "marketPrice": "20.8"
+                    },
+                    "batch": {
+                        "batchFlag": 0
+                    },
+                    "cornerImageUrl": "http://image.yonghuivip.com/image/16527156730699cf2fdca7023a8e4df7a88297c99e2797b4ccedd.png",
+                    "tag": {
+                        "commonTags": [{
+                            "text": "6.7折特价",
+                            "type": 10
+                        }]
+                    },
+                    "spu": {
+                        "isSpu": 0
+                    },
+                    "title": "安井台湾风味原味手抓饼 900g",
+                    "subTitle": "香糯细腻，口感好",
+                    "inStock": 1,
+                    "tracking": {
+                        "priceInCent": 1390,
+                        "marketPriceInCent": 2080
+                    },
+                    "preprocess": 0,
+                    "cornerStyle": 1,
+                    "isOnSale": true
+                }],
+                "banner": {
+                    "id": "1577813128389827208",
+                    "height": 480,
+                    "width": 1053,
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D616786daa539230006d27ee4",
+                    "name": "周三",
+                    "imgurl": "http://image.yonghuivip.com/image/16531284170349f8c7f1d46a5bcd8921b6f1767b8c37e5d7098f0.jpg?w=1053&h=480"
+                }
+            },
+            "style": {
+                "rcType": 1
+            },
+            "modulename": "superdiscount"
+        }, {
+            "pid": "1589737348110341431",
+            "key": "slicebit",
+            "point": 7,
+            "assemblyremark": "磁片位",
+            "value": {
+                "secKill": {
+                    "ipoint": 0,
+                    "enabledFrom": 1653364800000,
+                    "enabledTo": 1653407999000,
+                    "action": "myyh://yhlife.com/show/native?name=seckillactivity&code=FJFZ-MS-0518-0531&seckillTab=0",
+                    "titleImg": "https://image.yonghuivip.com/slicebit/seckill/slicebitseckilltitle2.png",
+                    "skus": [{
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-CB58880586&merid=7",
+                        "skuCode": "R-CB58880586",
+                        "skuType": 2,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/R-CB58880586/16527670755937a12cac7e7a702608be3775392ff4b894d46090a.jpg?w=750&h=750"
+                        },
+                        "price": {
+                            "price": "33.8",
+                            "marketPrice": "49.8"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/16527156730699cf2fdca7023a8e4df7a88297c99e2797b4ccedd.png",
+                        "tag": {
+                            "titleTag": {
+                                "text": "秒杀",
+                                "type": 33,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/seckill@3x-2.png"
+                            },
+                            "commonTags": [{
+                                "text": "8元满减券",
+                                "type": 32,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/coupon@3x.png"
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "妃子笑荔枝 1.5kg",
+                        "subTitle": "清香爽口，肉嫩多汁",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 3380,
+                            "marketPriceInCent": 4980
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1164321&merid=7",
+                        "skuCode": "R-1164321",
+                        "skuType": 2,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/R-1164321/16045421236262aac39838ed1e1a8c944874879dbae334e0ced69.jpg"
+                        },
+                        "price": {
+                            "price": "4.98",
+                            "marketPrice": "7.98"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/165323356803986dd215dc08076dee70201c658f77045b94961bd.png",
+                        "tag": {
+                            "titleTag": {
+                                "text": "秒杀",
+                                "type": 33,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/seckill@3x-2.png"
+                            },
+                            "commonTags": [{
+                                "text": "8元满减券",
+                                "type": 32,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/coupon@3x.png"
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "鲜花生 300g",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 498,
+                            "marketPriceInCent": 798
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-CB53411664&merid=7",
+                        "skuCode": "R-CB53411664",
+                        "skuType": 2,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/B-349/1612688429035e52f5bfc3bd8a6cdbdeb206314fec76158771a55.png"
+                        },
+                        "price": {
+                            "price": "11.8",
+                            "marketPrice": "18.8"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/165093856428063426098c492a2fd0897dd375618a5d5be7d841b.png",
+                        "tag": {
+                            "titleTag": {
+                                "text": "秒杀",
+                                "type": 33,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/seckill@3x-2.png"
+                            },
+                            "commonTags": [{
+                                "text": "现杀清洗",
+                                "type": 12
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "白鲫鱼 杀前重量：350-450g",
+                        "subTitle": "美味鲜香，肉质饱满，营养丰富",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 1180,
+                            "marketPriceInCent": 1880
+                        },
+                        "preprocess": 1,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1468308&merid=7",
+                        "skuCode": "R-1468308",
+                        "skuType": 2,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/yh-image-library/60010cef-f378-471f-8d8c-e398e2a2ab2e.jpg"
+                        },
+                        "price": {
+                            "price": "7.9",
+                            "marketPrice": "11.9"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/165093856428063426098c492a2fd0897dd375618a5d5be7d841b.png",
+                        "tag": {
+                            "titleTag": {
+                                "text": "秒杀",
+                                "type": 33,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/seckill@3x-2.png"
+                            }
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "鲁王精制水磨糯米粉 500g",
+                        "subTitle": "精品制作",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 790,
+                            "marketPriceInCent": 1190
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }],
+                    "id": "1589737347951872508"
+                },
+                "activities": [{
+                    "ipoint": 1,
+                    "title": "平价菜场",
+                    "subTitle": "5元现金券🔥",
+                    "skus": [{
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1055624&merid=7",
+                        "skuCode": "R-1055624",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/yh-image-library/C7602712-6D13-4EFE-9781-4B409E717427.jpg?w=800&h=800"
+                        },
+                        "price": {
+                            "price": "12.9",
+                            "marketPrice": "19.8"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/1649642953491e81617d3eed3631c5612e7ee423bff40a6024780.png",
+                        "tag": {
+                            "commonTags": [{
+                                "text": "6.5折特价",
+                                "type": 10
+                            }, {
+                                "text": "5元现金券",
+                                "type": 32,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/coupon@3x.png"
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "屠夫状元五花条 300g±9g",
+                        "subTitle": "（商品以实物为准)口感香醇 香而不腻 红烧肉必备",
+                        "recSlogan": "6839人回购过",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 1290,
+                            "marketPriceInCent": 1980
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-CB55960787&merid=7",
+                        "skuCode": "R-CB55960787",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/R-CB27588/1623216962168e096123f2a76e7f5348e68f8e2828341495e20b4.gif?w=200&h=200"
+                        },
+                        "price": {
+                            "price": "26.8",
+                            "marketPrice": "35.8"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/1650938547442d69562289927f79e15ed4274a9bb236413b43a9b.png",
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "鲜活小龙虾 500g±30",
+                        "subTitle": "美味鲜香，肉质饱满，营养丰富16-25只/斤（配送无保证个别鲜活）介意勿拍",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 2680,
+                            "marketPriceInCent": 3580
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }],
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62620cba371884000621867c",
+                    "id": "1589737346615255896"
+                }, {
+                    "ipoint": 2,
+                    "title": "品牌闪购",
+                    "subTitle": "坤兴39-15",
+                    "skus": [{
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-920801&merid=7",
+                        "skuCode": "R-920801",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/B-920801/1611127264032e52f5bfc3bd8a6cdbdeb206314fec76158771a55.png"
+                        },
+                        "price": {
+                            "price": "13.8",
+                            "svpPrice": "13.39"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "tag": {
+                            "commonTags": [{
+                                "text": "15元满减券",
+                                "type": 32,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/coupon@3x.png"
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "坤兴蒜蓉粉丝扇贝 198g",
+                        "subTitle": "浓郁蒜香  个大饱满  鲜甜爽口",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 1380,
+                            "marketPriceInCent": 1380
+                        },
+                        "preprocess": 0,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-850402&merid=7",
+                        "skuCode": "R-850402",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/850402/149836592964018c1739543808a054d15f07d49042bdcea202357"
+                        },
+                        "price": {
+                            "price": "17.9"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "tag": {
+                            "commonTags": [{
+                                "text": "15元满减券",
+                                "type": 32,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/coupon@3x.png"
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "坤兴  深海鳕鱼片 300g",
+                        "subTitle": "肉多刺少  味道鲜美",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 1790,
+                            "marketPriceInCent": 1790
+                        },
+                        "preprocess": 0,
+                        "isOnSale": true
+                    }],
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D624d5735110ab20006e08e93",
+                    "id": "1589737348941479683"
+                }, {
+                    "ipoint": 3,
+                    "title": " 咏悦汇",
+                    "subTitle": "一元秒神券",
+                    "skus": [{
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1160045&merid=7",
+                        "skuCode": "R-1160045",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/yh-image-library/7506dadd-e4b8-4cd9-ac22-b3643867b277.jpg"
+                        },
+                        "price": {
+                            "price": "32",
+                            "marketPrice": "39.8"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/1652915064505cb51920bd7d511bd610c4c2df220e7552bfbdb35.png",
+                        "tag": {
+                            "commonTags": [{
+                                "text": "15元满减券",
+                                "type": 32,
+                                "imageUrl": "http://image.yonghuivip.com/sku/card/icon/coupon@3x.png"
+                            }]
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "梅见青梅酒 330ml",
+                        "subTitle": "酸甜交织，入口甜美",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 3200,
+                            "marketPriceInCent": 3980
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1273392&merid=7",
+                        "skuCode": "R-1273392",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/yh-image-library/c64c8646-3ecf-40c1-9cde-96e3760c53e5.jpg"
+                        },
+                        "price": {
+                            "price": "49",
+                            "marketPrice": "52.8"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "cornerImageUrl": "http://image.yonghuivip.com/image/1652915064505cb51920bd7d511bd610c4c2df220e7552bfbdb35.png",
+                        "tag": {},
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "乌苏11度啤酒 620ml*6",
+                        "subTitle": "网红大乌苏，源自新疆",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 4900,
+                            "marketPriceInCent": 5280
+                        },
+                        "preprocess": 0,
+                        "cornerStyle": 1,
+                        "isOnSale": true
+                    }],
+                    "action": "myyh://yhlife.com/show/native?id=5fead413750db6001b771df6&name=sp",
+                    "id": "1589737348991588146"
+                }, {
+                    "ipoint": 4,
+                    "title": "自有品牌",
+                    "subTitle": "源头好品质",
+                    "skus": [{
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1484291&merid=7",
+                        "skuCode": "R-1484291",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/yh-image-library/E5E9A39B-D065-4C89-BCDE-8D107607E035.jpg?w=800&h=800"
+                        },
+                        "price": {
+                            "price": "35.9",
+                            "marketPrice": "39.9"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "优颂宫猫招财系列不锈钢便携式餐具套装 18.5cm",
+                        "subTitle": "高颜值便携餐具",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 3590,
+                            "marketPriceInCent": 3990
+                        },
+                        "preprocess": 0,
+                        "isOnSale": true
+                    }, {
+                        "type": 1,
+                        "action": "myyh://yhlife.com/show/native?name=prddetail&id=R-1485429&merid=7",
+                        "skuCode": "R-1485429",
+                        "skuType": 0,
+                        "skuSaleType": 0,
+                        "cover": {
+                            "imageUrl": "http://image.yonghuivip.com/product/R-1485429/1644565313186713bb86f9981d7189bd8560fd4a032889fddca48.jpg?w=750&h=750"
+                        },
+                        "price": {
+                            "price": "29.9",
+                            "marketPrice": "39.9"
+                        },
+                        "batch": {
+                            "batchFlag": 0
+                        },
+                        "spu": {
+                            "isSpu": 0
+                        },
+                        "title": "优颂宫猫招财系列便当盒 1100ml",
+                        "subTitle": "高颜值便携餐具",
+                        "inStock": 1,
+                        "tracking": {
+                            "priceInCent": 2990,
+                            "marketPriceInCent": 3990
+                        },
+                        "preprocess": 0,
+                        "isOnSale": true
+                    }],
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D619205fd63cff80007c49e09",
+                    "id": "1589737347680277578"
+                }]
+            },
+            "modulename": "four_word_spaces"
+        }, {
+            "pid": "1577813127327192694",
+            "key": "bannerbar",
+            "point": 8,
+            "assemblyremark": "垂直品类",
+            "value": {
+                "marketingres": [{
+                    "id": "1577813125240841976",
+                    "height": 210,
+                    "width": 210,
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D6219f7f8deaefc00062fae59",
+                    "name": "快手菜",
+                    "title": "快手菜",
+                    "ipoint": 0,
+                    "imgurl": "http://image.yonghuivip.com/image/1652774373311cf0235a98322d9a8d3163419383b21c3662760c7.png?w=210&h=210",
+                    "oldimageinfo": {
+                        "url": "http://image.yonghuivip.com/image/16527743784792b043b85079b2c62f19e4c3db19c78237228798a.png?w=345&h=462",
+                        "w": 345,
+                        "h": 462
+                    },
+                    "subtitle": "满68减25"
+                }, {
+                    "id": "1577813125562990150",
+                    "height": 210,
+                    "width": 210,
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D62763aedb8e5cd0006964bf8",
+                    "name": "水果集市",
+                    "title": "水果集市",
+                    "ipoint": 1,
+                    "imgurl": "http://image.yonghuivip.com/image/1653116568944f57f728ab75cdbbf3b0672ebee1fa85df454750f.png?w=210&h=210",
+                    "oldimageinfo": {
+                        "url": "http://image.yonghuivip.com/image/165311658134001f9cf797ed4e40c0380dc4ffff5997e67c957f8.png?w=345&h=462",
+                        "w": 345,
+                        "h": 462
+                    },
+                    "subtitle": "蜜桃7.99"
+                }, {
+                    "id": "1577813128800058545",
+                    "height": 210,
+                    "width": 210,
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D5f110ff8084a9c001a56a6c9",
+                    "name": "清仓专区",
+                    "title": "清仓专区",
+                    "ipoint": 2,
+                    "imgurl": "http://image.yonghuivip.com/image/16508194212039b0c9980e1dfb121df6c2f7374c0433d61de27fb.jpg?w=210&h=210",
+                    "oldimageinfo": {
+                        "url": "http://image.yonghuivip.com/image/16508195535438c09fc9fbcbcdc169947d708f303c5d9f505bbe7.jpg?w=345&h=462",
+                        "w": 345,
+                        "h": 462
+                    },
+                    "subtitle": "好货捡漏价"
+                }, {
+                    "id": "1577813129312178167",
+                    "height": 210,
+                    "width": 210,
+                    "action": "myyh://yhlife.com/show/web?needlogin=0&needLogin=0&url=https%3A%2F%2Fcmsh5.yonghuivip.com%2Findex.html%3FcanShare%3D1%26needlocation%3D1%26showLoading%3D0%26aid%3D619350cadfe6580006ab540e",
+                    "name": "应季上新",
+                    "title": "应季上新",
+                    "ipoint": 3,
+                    "imgurl": "http://image.yonghuivip.com/image/16523456732204538f193d0b4e60e94e07b453cb1bd94a5bf2052.png?w=210&h=210",
+                    "oldimageinfo": {
+                        "url": "http://image.yonghuivip.com/image/16523456771704eb747c088bb6ae3bce52cff0b3f07713203a734.png?w=345&h=462",
+                        "w": 345,
+                        "h": 462
+                    },
+                    "subtitle": "❤️才华出粽"
+                }]
+            },
+            "modulename": "bannerbar"
+        }, {
+            "pid": "1598654928577575658",
+            "key": "newnavigationtab",
+            "point": 9,
+            "assemblyremark": "瀑布流",
+            "value": [{
+                "title": "猜你喜欢",
+                "type": "1",
+                "subtitle": "精选好物"
+            }, {
+                "id": "1598654928577576422",
+                "title": "小龙虾季",
+                "type": "4",
+                "subtitle": "3件88元"
+            }, {
+                "id": "1598654928577576425",
+                "title": "预售专区",
+                "type": "4",
+                "subtitle": "好物提前购"
+            }, {
+                "id": "1598654928577576424",
+                "title": "咔滋破冰",
+                "type": "4",
+                "subtitle": "领冰爽福利"
+            }, {
+                "title": "人气热销",
+                "type": "2",
+                "subtitle": "大家都在买"
+            }, {
+                "title": "时令新品",
+                "type": "3",
+                "subtitle": "超值上新"
+            }],
+            "modulename": "newnavigationtab"
+        }],
+        "existnewexclusivesku": 0,
+        "pageId": "1577813127327192679",
+        "subpageaid": "1577813127327192679",
+        "lbsSeller": 7,
+        "titles": [{
+            "title": "为你推荐",
+            "path": "/api/fp/homepage",
+            "titleImg": "https://image.yonghuivip.com/default.png",
+            "ceilingTitleImg": "https://image.yonghuivip.com/default3.png",
+            "navTabType": 1,
+            "busLocation": "最快30分钟送达",
+            "imgHeight": 20,
+            "imgWidth": 72
+        }, {
+            "title": "更多好货",
+            "path": "/api/fp/homepage",
+            "titleImg": "https://image.yonghuivip.com/more/good/moregoodswhite.png",
+            "ceilingTitleImg": "https://image.yonghuivip.com/more/good/moregoodsblack.png",
+            "navTabType": 3,
+            "busLocation": "快递发全国",
+            "imgHeight": 20,
+            "imgWidth": 72
+        }, {
+            "title": "跨境购",
+            "path": "/api/fp/homepage",
+            "titleImg": "https://image.yonghuivip.com/title/image/white/gloabsale.png",
+            "ceilingTitleImg": "https://image.yonghuivip.com/gloabsale3.png",
+            "navTabType": 4,
+            "busLocation": "保税仓直发",
+            "imgHeight": 20,
+            "imgWidth": 72
+        }],
+        "shopid": "9163",
+        "newhomepage": true,
+        "topNavbarColor": {
+            "defaultColor": "#FFFFFF",
+            "selectColor": "#FFFFFF"
+        }
+    },
+    "now": 1653393397461
+}

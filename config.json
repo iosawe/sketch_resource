@@ -1,0 +1,28 @@
+﻿{
+    "data": [
+        {
+            "name": "首页",
+            "apiPath": "home",
+            "template": {
+                "url": "http://rdigg595a.hn-bkt.clouddn.com/home-template.json",
+                "version": "0.0.1"
+            }
+        },
+        {
+            "name": "分类页",
+            "apiPath": "category",
+            "template": {
+                "url": "http://rdigg595a.hn-bkt.clouddn.com/home-template.json",
+                "version": "0.0.1"
+            }
+        },
+        {
+            "name": "购物车页",
+            "apiPath": "shopcart",
+            "template": {
+                "url": "http://rdigg595a.hn-bkt.clouddn.com/home-template.json",
+                "version": "0.0.1"
+            }
+        }
+    ]
+}
